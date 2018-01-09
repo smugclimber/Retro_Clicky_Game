@@ -42,7 +42,7 @@ class App extends Component {
         score = "YOU LOSE!!!"; //Add screen shake or popup notice here
         guessText = "You guessed WRONG!";
         alert("YOU LOSE!!");
-        window.location = "./";
+        window.location = "https://smugclimber.github.io/Retro_Clicky_Game/";
       }
     this.shuffle(this.state.gameSystems)
   }
