@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "clicked": false,
+    "name": "2600 Video Computer System",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/klxecu005dwlaj5vmrej",
+    "company": "Atari"
+  },
+  {
+    "id": 2,
+    "clicked": false,
+    "name": "Game and Watch Portable",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/kujswdm2oevr9imwojss",
+    "company": "Nintendo"
+  },
+  {
+    "id": 3,
+    "clicked": false,
+    "name": "Nintendo Entertainment System",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/wbufagbdoiio5pgfete6",
+    "company": "Nintendo"
+  },
+  {
+    "id": 4,
+    "clicked": false,
+    "name": "GameBoy",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/24/14/gameboy.jpg",
+    "company": "Nintendo"
+  },
+  {
+    "id": 5,
+    "clicked": false,
+    "name": "Lynx Portable",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/nfahb8zntqc3rig2vvg5",
+    "company": "Atari"
+  },
+  {
+    "id": 6,
+    "clicked": false,
+    "name": "Game Gear Portable",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/mjdwjkxjapc8ibx2mkbm",
+    "company": "Sega"
+  },
+  {
+    "id": 7,
+    "clicked": false,
+    "name": "Genesis",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/vgvhlqvnz8exegulaj4w",
+    "company": "Sega"
+  },
+  {
+    "id": 8,
+    "clicked": false,
+    "name": "Super Nintendo Entertainment System",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/fg9f9jw7dazshg2lrn37",
+    "company": "Nintendo"
+  },
+  {
+    "id": 9,
+    "clicked": false,
+    "name": "Virtual Boy",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/loan2nfpjmufpqhjf3le",
+    "company": "Nintendo"
+  },
+  {
+    "id": 10,
+    "clicked": false,
+    "name": "PlayStation",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/grubyylekccfz9lvejh1",
+    "company": "Sony"
+  },
+  {
+    "id": 11,
+    "clicked": false,
+    "name": "Master System",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/pkyvcbhegcoqge5u8onf",
+    "company": "Sega"
+  },
+  {
+    "id": 12,
+    "clicked": false,
+    "name": "Nintendo 64",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/c_fit,f_auto,fl_progressive,q_auto,w_768/q59cqcrfpuktrxgobfxs",
+    "company": "Nintendo"
+  }
+]

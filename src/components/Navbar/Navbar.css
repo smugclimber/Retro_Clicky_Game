@@ -1,0 +1,15 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+.score{
+  font-size: 20pt;
+  color: red;
+  margin-left: 500px;
+}
+
+.guessText{
+  font-size: 20pt;
+  color: green;
+  margin-left: 500px;
+}
