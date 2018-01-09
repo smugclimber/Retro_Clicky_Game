@@ -2,7 +2,7 @@
   "name": "clicky-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://smugclimber.github.io/clicky-app",
+  "homepage": "https://smugclimber.github.io/Retro_Clicky_Game",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
