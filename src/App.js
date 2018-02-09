@@ -3,6 +3,7 @@ import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
+import AudioPlayer from "./components/AudioPlayer";
 import gameSystems from "./gameSystems.json";
 import "./App.css";
 
@@ -42,9 +43,10 @@ class App extends Component {
         score = "YOU LOSE!!!"; //Add screen shake or popup notice here
         guessText = "You guessed WRONG!";
         alert("YOU LOSE!!");
-        window.location = "https://smugclimber.github.io/Retro_Clicky_Game/";
+        window.location = "retroclickygame.atomicnick.com";
       }
     this.shuffle(this.state.gameSystems)
+
   }
 
   // Map over this.state.gameSystems and render a FriendCard component for each friend object
@@ -68,6 +70,7 @@ class App extends Component {
             ))}
           </Wrapper>
         </div>
+        <AudioPlayer/>
       </div>
     );
   }
