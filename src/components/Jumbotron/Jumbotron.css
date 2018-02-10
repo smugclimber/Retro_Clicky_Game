@@ -1,9 +1,21 @@
 .jumbotron {
     margin-bottom: 0px;
-    background-image: url('./public/retro_bkgrnd.png');
-    background-position: 0% 25%;
+    background-image: url('./../../retro_bkgrnd.png') !important;
+    background-position: 0%;
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
+    color: lightgray;
     text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+@media only screen and (max-width: 500px) {
+  .jumbotron {
+      margin-bottom: 0px;
+      background-image: url('./../../retro_bkgrnd.png') !important;
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: lightgray;
+      text-shadow: black 0.3em 0.3em 0.3em;
+  }
 }

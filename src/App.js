@@ -34,7 +34,7 @@ class App extends Component {
     if (gameSystems[markedId].clicked === false)
       {
         gameSystems[markedId].clicked = true;
-        score ++;
+        score = score + 100;
         guessText = "You guessed Correct!!";
         this.setState({ gameSystems, score, guessText});
       }

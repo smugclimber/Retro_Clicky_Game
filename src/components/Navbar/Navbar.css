@@ -1,15 +1,28 @@
 nav.navbar.navbar-default {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }
 
 .score{
   font-size: 20pt;
   color: red;
-  margin-left: 500px;
+  margin-left: 470px;
 }
 
 .guessText{
   font-size: 20pt;
   color: green;
-  margin-left: 500px;
+  margin-left: 30px;
+}
+
+@media only screen and (max-width: 500px) {
+  .score{
+    font-size: 15pt;
+    color: red;
+    margin-left: 0px;
+  }
+
+  .guessText{
+    font-size: 15pt;
+    color: green;
+  }
 }

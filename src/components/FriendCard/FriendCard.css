@@ -53,3 +53,61 @@
   bottom: 0;
   left: 0;
 }
+
+@media only screen and (max-width: 500px) {
+  .card {
+    background: #fff;
+    border-radius: 1px;
+    height: 112px;
+    margin: 1rem;
+    position: relative;
+    width: 112px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+  }
+
+  .card > .img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    background:#ffffff;
+  }
+  .card > .img-container > img {
+    width: 100%
+  }
+
+  .card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 10px;
+  }
+
+  .card > .content > ul {
+    list-style-type: none;
+  }
+
+  .card > .content > ul > li {
+    margin-top: 10px;
+  }
+
+  .card > .test {
+    color: #ff1744;
+    font-size: 30px;
+    position: absolute;
+    top: -10px;
+    right: 2px;
+    cursor: pointer;
+  }
+
+  .card > .test:hover {
+    color: #d50000;
+  }
+
+  .description {
+    margin-left: 5px;
+    margin-right: 5px;
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+  }
+}
